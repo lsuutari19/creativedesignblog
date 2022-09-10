@@ -15,5 +15,11 @@ I think the whole idea around prototyping with just tape and spaghetti strands w
 Well the whole purpose was to build a tower with minimal materials and I managed to do that so this tower fulfills the requirements imposed upon us, the students. I mentioned in the above paragraph what makes this prototype creative and stand out from the others. But TLDR the tower is very sturdy, tall and the tape as a part of the structure was a good touch.
 
 ![Image of the Tri Tower](/IMG_4600.jpg?raw=true "Optional Title")
+Image from above
 
+![Image of the Tri Tower](/IMG_4603.jpg?raw=true "Optional Title")
+Length of the tower
+
+![Side view image of the Tri Tower](/IMG_4602.jpg?raw=true "Optional Title")
+Image from side
 
