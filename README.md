@@ -49,6 +49,6 @@ Big side view
 
 During the last part of the exercise we had to create a mindmap of mosquitoes. I settled for 6 different main categories: annoying, southern countries, northern countries, different species, biological weapons can transfer pollen and food. As a Finn I hate mosquitoes and they ruin our cottage trips so I am glad there are repellants for them, but in this mindmap I tried to find benefits of having mosquitoes. Mosquitoes are a good food source for the natures economy.
 
-![Image of the Tri Tower](/IMG_4618.jpg?raw=true "Optional Title")
+![Mindmap of mosquitoes](/mosquito.png?raw=true "Optional Title")
 Mindmap of mosquitoes
 
