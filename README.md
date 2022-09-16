@@ -41,6 +41,8 @@ Another problem would be how durable would the actual prototype be? Without modi
 
 Overall I am proud of the idea I came up and received positive feedback from one of my peers, so much so that they also liked the idea so much that they also started sketching a prototype of it!
 
+The idea and prototype make it fitting to the purpose because they can do the job as a makeshift phone holder, it is creative because it saves money and normally people wouldn't think about using clothing pegs in this way. This is also why the idea is novel.
+
 ![Different view points](/IMG_4616.jpg?raw=true "Optional Title")
 Different view points
 
