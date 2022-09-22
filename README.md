@@ -62,13 +62,34 @@ ideas of ideal wallets. For me an ideal wallet has to bee compact, have an easy 
 show your ID in case you need to. This means that there should be separate spaces for small amount of cash, ID spot and a card holder.
 I really like the design of today's card holder wallets.
 
-![My ideal wallet](/IMG-4640.jpg?raw=true "Optional Title")
+![My ideal wallet](/IMG-4644.jpg?raw=true "Optional Title")
 
 Then we had interviews with our partner who was decided on random. We interviewed each other to figure out what kind of things we like
 in our ideal wallets and taked notes on these.
 
-Then we had to criticize the ideas that we noted from our partner. 
+My partners ideal wallet needs to:
+  - Have a coin space 
+  - Needs to be practical, if it works dont fix it.
+  - Minimal size
+  - No need to be decorated
+  - He likes the no-nonsense design of Iphones
+  - Perhaps a modular wallet? Where you could take it apart for example remove coin purse and only take card holder
+  - Coin module for each type of coin?
 
+Then we had to guess what our partner tried to achieve with his ideal wallet:
+  - The main point is that it needs to be practical, not pretty with a space for coins.
+  - TLDR: coins, small, practical
+
+Insights:
+  Having different coins organized is difficult while keeping the size minimal
+
+Take a stand with a POV:
+
+Partner needs a way to store coins, cards, bills all in a small wallet, because it would help him keep all the currency with him at all times.
+
+After these steps it was time to sketch our test designs, I came up with two with taxi coin holders on the side, and two with coin purses integrated the last one was a wallet with two modules one for cards and bills one for coins.
+
+![Test designs](/IMG-4639.jpg?raw=true "Optional Title")
 
 
 
