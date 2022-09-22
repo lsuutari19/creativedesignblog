@@ -54,3 +54,25 @@ During the last part of the exercise we had to create a mindmap of mosquitoes. I
 ![Mindmap of mosquitoes](/mosquito.png?raw=true "Optional Title")
 Mindmap of mosquitoes
 
+
+## EXERCISE 3: Wallet 
+
+I was in the Thursday's group for this exercise since I couldn't make it to the exercise on Friday. This exercise began by first sketching our own
+ideas of ideal wallets. For me an ideal wallet has to bee compact, have an easy way to grab all the necessary things and it has an easy way to
+show your ID in case you need to. This means that there should be separate spaces for small amount of cash, ID spot and a card holder.
+I really like the design of today's card holder wallets.
+
+![My ideal wallet](/IMG-4640.jpg?raw=true "Optional Title")
+
+Then we had interviews with our partner who was decided on random. We interviewed each other to figure out what kind of things we like
+in our ideal wallets and taked notes on these.
+
+Then we had to criticize the ideas that we noted from our partner. 
+
+
+
+
+
+
+
+
