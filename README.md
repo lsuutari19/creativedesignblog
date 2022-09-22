@@ -106,8 +106,8 @@ Now it was finally time to start prototyping the actual test model. One problem 
 integrate it into the design so I scratched that out and made the coin holder more cubical.
 
 
-![Final prototype](/IMG-4643.jpg.jpg?raw=true "Optional Title")
-![Final prototype](/IMG-4641.jpg.jpg?raw=true "Optional Title")
+![Final prototype](/IMG-4643.jpg?raw=true "Optional Title")
+![Final prototype](/IMG-4641.jpg?raw=true "Optional Title")
 
 I was kinda let down at what I could scratch together in the end. It was way off the actual design, but for my defense it was hard to
 create one with the cardboard, tape, glue etc. that I had available.
