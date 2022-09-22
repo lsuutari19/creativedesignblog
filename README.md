@@ -87,12 +87,30 @@ Take a stand with a POV:
 
 Partner needs a way to store coins, cards, bills all in a small wallet, because it would help him keep all the currency with him at all times.
 
-After these steps it was time to sketch our test designs, I came up with two with taxi coin holders on the side, and two with coin purses integrated the last one was a wallet with two modules one for cards and bills one for coins.
+After these steps it was time to sketch our test designs, I came up with two with taxi coin holders on the side, and two with coin purses integrated the last one was a wallet with two modules one for cards and bills one for coins. 
 
-![Test designs](/IMG-4639.jpg?raw=true "Optional Title")
+![Test designs](/IMG_4639.jpg?raw=true "Optional Title")
+
+Then we gave our feedback on these test designs to eachother and the feedback I receivec was:
+  - Coins horizontally or vertically is not practical because the wallet becomes wider
+  - Liked the 3rd and 5th ones.
+  - The coin purse separately was a good idea
+  - ID separately would be nice (it would be easier to show it at cashier etc.)
+  - zipper could be wider
+ 
+ After this it was time to sketch the final design for this exercise
+ 
+![Final design](/IMG_4650.jpg?raw=true "Optional Title")
+
+Now it was finally time to start prototyping the actual test model. One problem I encountered was that I didnt have a spare zipper or a way to
+integrate it into the design so I scratched that out and made the coin holder more cubical.
 
 
+![Final prototype](/IMG-4643.jpg.jpg?raw=true "Optional Title")
+![Final prototype](/IMG-4641.jpg.jpg?raw=true "Optional Title")
 
+I was kinda let down at what I could scratch together in the end. It was way off the actual design, but for my defense it was hard to
+create one with the cardboard, tape, glue etc. that I had available.
 
 
 
