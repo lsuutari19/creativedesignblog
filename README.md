@@ -113,5 +113,30 @@ I was kinda let down at what I could scratch together in the end. It was way off
 create one with the cardboard, tape, glue etc. that I had available.
 
 
+## EXERCISE 4: Idea generation process
+
+In this exercise we had to use two different methods of idea creation. The methods were SCAMPER and Morphological analysis. These methods
+were completely new to me and I had never even used anything similar prior.
+SCAMPER method consisted of Substution, Combining, Adapting, Modifying, Putting to another use, Eliminating and Reversing.
+For me the easiest ones were the First three and Putting to another use. The rest of the methods required me to think a bit more
+before I understood the assignment. In my opinion Substitution provided the most viable idea from my generation process.
+I think using AI in trash cans could be used in the development of future trash cans. Thinking out loud I think I kind of run
+out of creativity at the end and seemed to be just reusing my prior ideas in new ways, but I also think this is kind of part
+of the process.
+
+The second method, Morphological analysis was confusing for me at first, but thanks to the lecture notes I managed to do it.
+It basically consisted of taking the problems and critical functions apart and thinking of each of them separately. For example
+in a car you could think of the wheels, control system, frame, power usage and safety. Our task was to think about a public
+transportation for 2 people. At first it was difficult of me to separate all the functions of the property, but after a bit of
+thinking I think I came to a good end and I am proud of the results I achieved.
+
+In the exercise laboratory session we we're assigned in a trio. I knew the other person, but the other one was completely new to me.
+At the end of the day I really liked this kind of setting where we could also meet other fellow students that we had never seen
+before and our third guy was a really nice guy. Together we really managed to shine in the exercise and I had a lot of fun doing it.
+I definitely think these idea generation processes are better to be done as a team than as an individual, because you get to see
+the contrast of ideas and the other people are also generating different ideas that we could combine and use together giving us a 
+completely new creative perspective. This was definitely the most fun exercise so far for me.
+
+(INPUT PICTURE OF FORMS HERE)
 
 
