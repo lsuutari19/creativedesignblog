@@ -137,4 +137,4 @@ I definitely think these idea generation processes are better to be done as a te
 the contrast of ideas and the other people are also generating different ideas that we could combine and use together giving us a 
 completely new creative perspective. This was definitely the most fun exercise so far for me.
 
-[here](/What rules could you substitute (1)-rotated.pdf)
+![here](/What rules could you substitute (1)-rotated.pdf)
