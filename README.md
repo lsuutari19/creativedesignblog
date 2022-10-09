@@ -139,3 +139,17 @@ completely new creative perspective. This was definitely the most fun exercise s
 
 You can see the my presubmission forms at the file "What rules could you substitute (1)-rotated.pdf" located in the main directory of
 this document.
+
+# EXERCISE 5
+
+In this exercise we were tasked with generating ideas on two different idea generation methods. The first one was Fishbone Diagram method. The general idea of this method is to identify problem's root causes for further analysis and brainstorm the causes of these problems to finally implement ideas. The second method was thematic relations method which uses keywords to create ideas based on situation, functions, daily life and new idea. I forgot to include the 4th slide in my pre assignment return. Basically the whole idea is to pair keywords in different methods to generate further ideas.
+
+The first one was fairly straightforward and I didn't struggle on it that much, since it seemed familiar to the previous idea generation processes I have used in my life. It also corresponded the most the general problem solving idea when debugging code or creating code. Although I did seem to misunderstand where the core problems were supposed to be laid out in the plan.
+
+The second one was where I struggled a lot, I didn't quite understand how to use the keywords to generate ideas in new situations so it took me a while to actually get them done. After about an hour to two hours of work I did manage to finally create the ideas and started to understand this method.
+
+After the individual preassignment submits were done we had a in-person exercise in teams of two to three using these methods. This was again the most fun because we got to interact with out fellow students to understand these methods better!
+
+The pdf of the individual work is attached in the pdf named 5B. Thematic Relations method (1/4)
+
+
