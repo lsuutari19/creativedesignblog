@@ -188,12 +188,14 @@ Pictures from the less sturdier prototype
 
 After the breakout time ended, again some students got the chance to present their prototypes. I didn't get the chance to show either one of mine. Now it was time to test how they would handle the falls and record videos to present to other students. My testing environments involved standing on a bed and dropping the egg from around the height of 170cm give or take 5 cm after this I also threw the prototypes to celing to see if they would handle greater impacts. I uploaded my videos to youtube:
 
+```
 First environment (from bed):
   https://youtu.be/T49yqY8yBik
   https://youtu.be/dyzqz_073e8
 Second environment (Throwing to ceiling):
   https://youtube.com/shorts/lFb938oH4WQ?feature=share
   https://youtube.com/shorts/_jU0GR5ofYk?feature=share
+```
 
 As you can see both of the prototypes survived the first testing environment without a problem. I was surprised to see that in the second test the first one didnt survive. The second prototype survived the second one as well. In hindsight I should propably have added cotton between the sock and the toilet paper roll to protect it more and add a 4th layer of protection to the egg.
 
