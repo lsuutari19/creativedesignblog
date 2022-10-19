@@ -167,3 +167,36 @@ actually a pretty useful method if we were prototyping a new product. I think th
 
 ![](/ex6_3.png?raw=true "Optional Title")
 The final product
+
+
+# EXERCISE 7
+
+In this exercise we had a challenge to produce a system that would keep an egg from being destroyed when dropping from height. Before the exercise we had to get materials so that we could produce the ideas, I went to Prisma and got sticks, straws and cotton. At home I already had the rest of the materials I thought I needed. First we we're given the requirements. It started with creating ideas and the requirement was to create atleast 3 different ideas. In my case I did 6 different ideas. We discussed these ideas in a breakout room with a partner so that we could create better ideas together. We also did a morphological analysis on what could be used as different stages of the challenge. We ended up on internal support, external support and the ground element. Internal support consisted of what was actually keeping the egg safe and the external support would hold this product together after the drop had happened. The ground element was basically what was laid on the ground to keep things from getting messy in the worst case scenario.
+
+![](/exercise7.png?raw=true "Optional Title")
+Ideas generated during breakout time
+
+![](/exercise7_morphanalysis.png?raw=true "Optional Title")
+Morphological analysis done during breakout time
+
+After the breakout time ended, some students got the chance to present their ideas. Most of these ideas seemed to circulate around the same idea as in just wrapping the egg with stuff to make it not break. From this and the prior meeting I concluded that I would make two working prototypes one sturdier and one less sturdier.
+Now it was time for another breakout time with our partners where we produced the prototypes. Both of my prototypes included toilet paper and foam. Other one was supported mainly by a full toilet paper roll and the other one was supported by an empty toilet paper roll. Both of the prototypes had foam inside the roll to protect the egg from the fall.
+
+![](/exercise7_1.png?raw=true "Optional Title")
+![](/exercise7_2.png?raw=true "Optional Title")
+Pictures from the less sturdier prototype
+
+After the breakout time ended, again some students got the chance to present their prototypes. I didn't get the chance to show either one of mine. Now it was time to test how they would handle the falls and record videos to present to other students. My testing environments involved standing on a bed and dropping the egg from around the height of 170cm give or take 5 cm after this I also threw the prototypes to celing to see if they would handle greater impacts. I uploaded my videos to youtube:
+
+First environment (from bed):
+  https://youtu.be/T49yqY8yBik
+  https://youtu.be/dyzqz_073e8
+Second environment (Throwing to ceiling):
+  https://youtube.com/shorts/lFb938oH4WQ?feature=share
+  https://youtube.com/shorts/_jU0GR5ofYk?feature=share
+
+As you can see both of the prototypes survived the first testing environment without a problem. I was surprised to see that in the second test the first one didnt survive. The second prototype survived the second one as well. In hindsight I should propably have added cotton between the sock and the toilet paper roll to protect it more and add a 4th layer of protection to the egg.
+
+At the end of the day I would give the following evaluations on the prototypes:
+![](/evaluation.png?raw=true "Optional Title")
+
