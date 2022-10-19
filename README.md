@@ -182,8 +182,8 @@ Morphological analysis done during breakout time
 After the breakout time ended, some students got the chance to present their ideas. Most of these ideas seemed to circulate around the same idea as in just wrapping the egg with stuff to make it not break. From this and the prior meeting I concluded that I would make two working prototypes one sturdier and one less sturdier.
 Now it was time for another breakout time with our partners where we produced the prototypes. Both of my prototypes included toilet paper and foam. Other one was supported mainly by a full toilet paper roll and the other one was supported by an empty toilet paper roll. Both of the prototypes had foam inside the roll to protect the egg from the fall.
 
-![](/exercise7_1.JPG =600x)
-![](/exercise7_2.JPG =600x)
+![](/exercise7_1.JPG?raw=true "Optional Title" )
+![](/exercise7_2.JPG?raw=true "Optional Title")
 Pictures from the less sturdier prototype
 
 After the breakout time ended, again some students got the chance to present their prototypes. I didn't get the chance to show either one of mine. Now it was time to test how they would handle the falls and record videos to present to other students. My testing environments involved standing on a bed and dropping the egg from around the height of 170cm give or take 5 cm after this I also threw the prototypes to celing to see if they would handle greater impacts. I uploaded my videos to youtube:
