@@ -202,3 +202,16 @@ As you can see both of the prototypes survived the first testing environment wit
 At the end of the day I would give the following evaluations on the prototypes:
 ![](/evaluation.png?raw=true "Optional Title")
 
+
+## Individual Project
+
+For my individual project in this course I wanted to make something that I would need in my daily life. I started generating ideas around computers, since that is what I do my daily work and studies with. After a bit of thinking I realized I didn't really have anything that would keep my mouse cable in place while I am working on projects etc. So I started generating ideas about a mouse cable holder! I wanted to use resources and materials that I already had at my home and originally was thinking about using cardboard, but then realized that it wouldn't hold up very well.
+
+In the end I switched the main material to be plastic and mysteriously as a finnish university student I had a bottle that I could use for the main part of the design. I removed the bottle cap and made cuts to the bottle and the cap to create an opening for the cable. After I confirmed it would be sturdy enough to hold the cable and do its job I wanted to add stuff to it so I poked holes in the product that could hold up utensils such as knife and a fork (you never know when your gonna need them right?). My surprise element in this project was that who thinks about having utensils in their mouse holder? As well as that if the user was too aggressive in the mouse usage the holder would fall and since it was filled with water would remind the user to be more careful, this is also a surprise mechanic of this project.
+
+As a reflection I would have wanted to use the 3D printers at FabLab to create this prototype so it would have looked a bit better than what I was able to create. I do not think I would use this in my daily life since I do not like cleaning up the water that would fall on my desk when the holder would fall. This also potentially could damage other parts of my computer such as the keyboard. At the end of the day I am satisfied with the end product. I also realised that instead of filling the bottle with a lot of water I could reduce the amount and it wouldn't leak after it would fall, this would negate the other surprise effect of this product, but it would be a lot more safer for my working environment. The utensil can support the cable holder on its own so if it would fall down it wouldn't fall all the way horizontally speaking.
+
+![](IMG-4754.jpg?raw=true "Optional Title" )
+![](IMG-4755.jpg?raw=true "Optional Title" )
+![](IMG-4756.jpg?raw=true "Optional Title" )
+![](IMG-4757.jpg?raw=true "Optional Title" )
